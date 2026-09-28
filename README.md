@@ -29,8 +29,8 @@ I'm a B.Tech Information Technology student at **Inderprastha Engineering Colleg
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=varnitsharma78-tech&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varnitsharma78-tech&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -38,7 +38,7 @@ I'm a B.Tech Information Technology student at **Inderprastha Engineering Colleg
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/varnitsharma78-tech/varnitsharma78-tech/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@ I'm a B.Tech Information Technology student at **Inderprastha Engineering Colleg
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varnitsharma78-tech&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -63,7 +63,7 @@ I'm a B.Tech Information Technology student at **Inderprastha Engineering Colleg
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/varnitsharma78-tech">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
