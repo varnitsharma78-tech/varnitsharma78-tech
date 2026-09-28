@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi, I'm Varnit Sharma 👋
 
-<!--
-**varnitsharma78-tech/varnitsharma78-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Cloud Enthusiast | B.Tech IT Student
 
-Here are some ideas to get you started:
+I'm a B.Tech Information Technology student at **Inderprastha Engineering College**, passionate about building modern web applications, working with APIs, and exploring cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech in Information Technology — **Inderprastha Engineering College**
+- 📅 Expected Graduation — **2028**
+- 💻 Focused on **Frontend & Full Stack Development**
+- ☁️ Exploring **Cloud Computing & APIs**
+- 🚀 Always learning, building, and improving
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs" />
+</p>
+
+### Web & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,aws" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## 🚀 What I'm Working On
+
+- Building full-stack web applications
+- Exploring cloud computing
+- Working with APIs and backend services
+- Improving my problem-solving and development skills
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Code. Build. Learn. Repeat. 🚀</i>
+</p>
