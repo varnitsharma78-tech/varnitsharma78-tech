@@ -46,7 +46,7 @@ I'm a B.Tech Information Technology student at **Inderprastha Engineering Colleg
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.github.io/graph?username=varnitsharma78-tech&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://ghchart.rshah.org/varnitsharma78-tech" alt="Varnit's Github Contributions Graph" width="100%" />
 </p>
 ---
 
@@ -78,7 +78,7 @@ I'm a B.Tech Information Technology student at **Inderprastha Engineering Colleg
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.github.io/graph?username=varnitsharma78-tech&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://ghchart.rshah.org/varnitsharma78-tech" alt="Varnit's Github Contributions Graph" width="100%" />
 </p>
 
 ---
