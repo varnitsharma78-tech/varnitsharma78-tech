@@ -75,14 +75,6 @@ I'm a B.Tech Information Technology student at **Inderprastha Engineering Colleg
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/varnitsharma78-tech" alt="Varnit's Github Contributions Graph" width="100%" />
-</p>
-
----
-
 ## 🚀 What I'm Working On
 
 - Building full-stack web applications
