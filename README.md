@@ -46,7 +46,7 @@ I'm a B.Tech Information Technology student at **Inderprastha Engineering Colleg
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varnitsharma78-tech&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varnitsharma78-tech&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 ---
 
@@ -78,8 +78,9 @@ I'm a B.Tech Information Technology student at **Inderprastha Engineering Colleg
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varnitsharma78-tech&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varnitsharma78-tech&theme=tokyonight&hide_border=true" width="100%" />
 </p>
+
 ---
 
 ## 🚀 What I'm Working On
